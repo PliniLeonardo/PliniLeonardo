@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-![Github Image](Github Image.jpg)
+![Github Image](https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg)
 
 - 📝 I regularly write articles on [//////](//////)
 
