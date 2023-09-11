@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-![Github Image](https://github.com/PliniLeonardo/PliniLeonardo/assets/74931295/1f4c2bd3-3abd-4e96-8c28-214606c5fa02)
+
+![Github Image](Github Image.jpg)
 
 - 📝 I regularly write articles on [//////](//////)
 
