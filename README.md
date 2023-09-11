@@ -1,9 +1,11 @@
 <!--
 ![MasterHead](https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg)
 -->
-<img align="center" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg" width="500" >
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
+
+<img align="center" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg" width="500" >
+
 
 <!--
 <img align="right" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg" height="400" width="400" >
