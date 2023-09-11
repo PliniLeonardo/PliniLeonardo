@@ -47,4 +47,4 @@ Currently working on Self Supervised Learning
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PliniLeonardo&theme=transparent&border_radius=5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PliniLeonardo)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PliniLeonardo&hide=javascript,css,scss,html&theme=tokyonight)
