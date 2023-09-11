@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img src="[http://url/image.png](https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg)" height="60" width="60" >
+
+<img src="http://url/image.png](https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg)" height="60" width="60" >
 - 📝 I regularly write articles on [//////](//////)
 
 - 📫 How to reach me **plinileonardo@gmail.com**
