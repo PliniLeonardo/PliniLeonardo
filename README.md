@@ -3,7 +3,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<h4 align="center"><a href="https://plinileonardo.github.io/">web page</a> soon available</h4>
+<h4 align="center"><a href="https://plinileonardo.github.io/">Personal Web Page</a> soon available</h4>
 
 <img align="center" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg" width="500" >
 
