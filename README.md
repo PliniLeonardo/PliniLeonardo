@@ -9,7 +9,7 @@
 
 
 <!--
-<img align="right" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg" height="400" width="400" >
+<img align="right" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/images/AI-Leo11.png" height="400" width="400" >
 -->
 
 ## My projects 
