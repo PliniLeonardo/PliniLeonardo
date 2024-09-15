@@ -1,19 +1,12 @@
-<!--
-![MasterHead](https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg)
--->
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h4 align="center"><a href="https://plinileonardo.github.io/">Personal Web Page</a> soon available</h4>
+<!-- Remember to modify this section as needed -->
 
-<img align="center" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/Github%20Image.jpg" width="500" >
+<p align="center">
+    <img src="images/AI-Leo11.png" height="400" width="400" />
+</p>
 
-
-<img align="right" src="https://github.com/PliniLeonardo/PliniLeonardo/blob/main/images/AI-Leo11.png" height="400" width="400" >
-<img align="right" src="images/AI-Leo11.png" height="400" width="400" >
-
-## My projects 
-
-Currently working on Self Supervised Learning 
 
 ## Contacts
 - 📫 How to reach me via email **plinileonardo@gmail.com**
