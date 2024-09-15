@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Plini</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h4 align="center"><a href="https://plinileonardo.github.io/">Personal Web Page</a> soon available</h4>
+
+<h4 align="center"><a href="https://sites.google.com/view/leonardo-plini-webpage/home-page">New Web Page</a></h4>
 <!-- Remember to modify this section as needed -->
 
 <p align="center">
