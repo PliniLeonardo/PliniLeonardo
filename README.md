@@ -6,7 +6,7 @@
 
 <!-- <h4 align="center"><a href="https://sites.google.com/view/leonardo-plini-webpage/home-page">Personal Google Site</a></h4>
 Remember to modify this section as needed -->
-<p align="center">Stay tuned! My personal webpage will be available soon, where you can find more about my projects and research.</p>
+<!-- <p align="center">Stay tuned! My personal webpage will be available soon, where you can find more about my projects and research.</p>
 
 <!-- <p align="center">
     <img src="images/AI-Leo11.png" height="400" width="400" />
